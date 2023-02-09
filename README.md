@@ -22,4 +22,4 @@ The CLI installs to **C:\Program Files (x86)\Amazon\AWSCLI**
 
 **Run AWS Configure**
 
-
+![image](https://user-images.githubusercontent.com/91480603/217885671-8f1fa3b4-dcaa-4f1f-a390-e4ce806840f7.png)
